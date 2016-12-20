@@ -1,5 +1,5 @@
 /*Importing the Telecom dataset*/
-libname tele "D:\Users\Jig11117\Graded Assignments\Topic 13-Final Case Study";
+libname tele "D:\Users\ms\Graded Assignments\Topic 13-Final Case Study";
 
 
 proc import 
